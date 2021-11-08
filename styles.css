@@ -1,0 +1,67 @@
+body{
+  background-color: #B1FFFD;
+
+}
+ #firstPag{
+  color: #ED50F1;
+}
+h1{
+
+ font-family: 'Sacramento', cursive;
+}
+
+
+h2{
+
+ font-family: 'Sacramento', cursive;
+ color: #CAB8FF;
+}
+
+.introText{
+  margin-top: 20%;
+  color: #CAB8FF;
+}
+
+.mainbody{
+
+  text-align: center;
+}
+
+.nextButton{
+  border-radius: 7px;
+  background-color:  #CAB8FF;
+
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  font-size: 120%;
+}
+
+img{
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+
+}
+
+.imgDiv{
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.mlbbImg{
+
+ padding: 10%;
+
+}
+.renaoMlbb{
+  padding: 10%
+}
+
+.mlbbImgText{
+  font-family: 'Sacramento', cursive;
+
+}
