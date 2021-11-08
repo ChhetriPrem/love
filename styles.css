@@ -1,7 +1,6 @@
 body{
   background-color: #B1FFFD;
   font-size: 200%;
-
 }
  #firstPag{
   color: #ED50F1;
@@ -13,7 +12,6 @@ h1{
 
 
 h2{
-  padding: 10%;
 
  font-family: 'Sacramento', cursive;
  color: #CAB8FF;
@@ -66,4 +64,8 @@ img{
 .mlbbImgText{
   font-family: 'Sacramento', cursive;
 
+}
+
+.nxt{
+    display: block;
 }
